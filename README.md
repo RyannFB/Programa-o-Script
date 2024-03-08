@@ -1,2 +1,2 @@
-# Programa-o-Script
+# Programacao-Script
 Repositório destinado a programação script 
